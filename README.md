@@ -4,7 +4,7 @@
 
 <!-- Header: clean, animated-typing fallback -->
 <img alt="header" 
-     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B,+I'm+Nandan;AI+Engineer+%E2%9A%A1;Full-Stack+Builder+%F0%9F%9A%80;Passionate+Problem+Solver+%F0%9F%A7%A0" />
+     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B,+I'm+Nandan+D;AI+Engineer+%E2%9A%A1;Full-Stack+Builder+%F0%9F%9A%80;Passionate+Problem+Solver+%F0%9F%A7%A0" />
 <p style="color:#94a3b8;margin-top:8px;">PES University · Engineering • Building AI-first products with polished frontends</p>
 
 </div>
