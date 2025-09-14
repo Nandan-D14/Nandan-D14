@@ -9,11 +9,8 @@
 
 </div>
 
-<!-- preview.html -->
-<iframe src="[https://example.com](https://nandan-d.vercel.app/)" style="width:100%;height:100vh;"></iframe>
 
 ---
-</div>
 # 💫 About Me
 
 🔭 I’m currently working on the **Kannada Koota** website  
