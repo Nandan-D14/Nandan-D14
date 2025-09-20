@@ -13,6 +13,8 @@
 ---
 # 💫 About Me
 
+👉 “Adaptable all-rounder with strong capabilities and a commitment to continuous improvement.” 
+
 🔭 I’m currently working on the **Kannada Koota** website  
 👯 I’m open to collaborating on anything exciting  
 🤝 I’m looking for help with **building and developing projects**  
