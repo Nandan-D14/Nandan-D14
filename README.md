@@ -21,7 +21,7 @@
 🌱 I’m currently learning **AI/ML**  
 ⚡ Fun fact: *I don’t know who you are 😅*  
 
-
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__nandan_d14__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nandan-d14) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nandand1482005@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://nandan-d.vercel.app/)  
