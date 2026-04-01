@@ -113,22 +113,6 @@ nandan = {
 
 ---
 
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nandan-D14&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-</div>
-
----
-
-### 🔝 Top Contributions
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Nandan-D14&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d001a"/>
-</div>
-
----
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
