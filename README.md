@@ -20,101 +20,79 @@
 
 <br/>
 
----
+<br clear="right"/>
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+<br/>
+
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ### ⚡ About Me
 
-- 🔭 Building the **Future Tech** 
-- 🧠 Deep in **AI/ML** — agents, pipelines, the works  
-- 🚀 I ship AI-first products with polished frontends  
-- 🤝 Open to collabs on anything ambitious  
-- 🎓 **PES University** · Computer Science  
-- ⚡ Fun fact: *I don't know who you are 😅*
+> 🚀 **Mission:** Building the future of tech by bridging the gap between cutting-edge AI pipelines and beautiful, polished user experiences.
+
+I am a Computer Science undergrad at **PES University** based in Bengaluru 🇮🇳. My true passion lies in the intersection of **Artificial Intelligence** and **Modern Frontend Engineering**. I don't just train models; I ship end-to-end, production-ready **AI-first products**. 
+
+**⚡ Quick Highlights:**
+- 🧠 Deep diving into **AI Agents & LLM Pipelines**
+- 🤝 Always open to collaborate on ambitious, world-changing projects
+- 💡 *Fun fact: I don't know who you are 😅*
+
+<br/>
+
 ```python
-nandan = {
-    "location"  : "Bengaluru 🇮🇳",
-    "currently" : "Building in public",
-    "stack"     : ["Next.js", "Python", "AI/ML"],
-    "status"    : "🟢 open to cool projects"
-}
+class Nandan(Developer):
+    def __init__(self):
+        super().__init__()
+        self.location = "Bengaluru, India 🇮🇳"
+        self.passions = ["AI/ML Pipelines", "Agentic Systems", "Next.js Frontends"]
+        self.status = "🟢 Building in public"
+        
+    def collaborate(self, project):
+        if project.is_ambitious() and project.is_cool():
+            return "Let's build it! 🤝"
+        return "Still open to ideas 🚀"
 ```
 
 <br clear="right"/>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
 ### 🛠️ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,java,c,r,html,nextjs,react,vue,tailwind,nodejs,express,electron,firebase,mongodb,mysql,vercel,netlify,opencv&perline=10" />
+  </a>
+</div>
 
-**Languages**
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**Frameworks**
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=61DAFB)
-![Electron](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**Cloud & Data**
-
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-
-</td>
-</tr>
-</table>
-
----
 
 ### 📊 GitHub Stats
 
+
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nandan-D14&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true"/>
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandan-D14&layout=compact&theme=midnight-purple&hide_border=true&count_private=true"/>
+  <img width="68%" src="https://streak-stats.demolab.com/?user=Nandan-D14&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="68%" src="https://nirzak-streak-stats.vercel.app/?user=Nandan-D14&theme=midnight-purple&hide_border=true"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nandan-D14&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nandan-D14&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nandan-D14&theme=tokyo-night&bg_color=0d001a&color=a78bfa&line=7c6fcd&point=e879f9&hide_border=true&radius=8"/>
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nandan-D14&theme=tokyonight" />
 </div>
 
----
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nandan-D14&theme=tokyo-night&bg_color=0d001a&color=a78bfa&line=7c6fcd&point=e879f9&hide_border=true&radius=8" alt="Activity Graph" />
 </div>
 
 <div align="center">
