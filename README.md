@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:060010,50:0d0025,100:1a0040&height=200&section=header&text=Nandan%20D&fontSize=72&fontColor=a78bfa&animation=fadeIn&fontAlignY=55&desc=AI%20Engineer%20%E2%80%94%20Full-Stack%20Builder%20%E2%80%94%20PES%20University&descSize=16&descAlignY=78&descColor=7c6fcd" width="100%"/>
-</div>
+</div> 
 
 <br/>
 
